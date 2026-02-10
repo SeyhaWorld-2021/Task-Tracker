@@ -12,7 +12,7 @@ Manage your tasks easily by adding, updating, deleting, and tracking their statu
 
 No external libraries. Pure Python. Beginner-friendly and extendable.
 
-https://github.com/SeyhaWorld-2021/Task-Tracker.git
+https://roadmap.sh/projects/task-tracker
 
 ---
 
