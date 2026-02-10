@@ -1,5 +1,12 @@
 #  Task Tracker CLI
 
+## Preview
+
+<p align="center">
+  <img src="images/preview.png" alt="Task Tracker CLI Preview">
+</p>
+
+
 A lightweight **command-line task tracker** built with Python.  
 Manage your tasks easily by adding, updating, deleting, and tracking their status with a simple JSON file.  
 
