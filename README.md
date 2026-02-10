@@ -1,15 +1,9 @@
- 
 #  Task Tracker CLI
-##  Preview
 
-<p align="center">
-  <img src="image/tasks tracker.PNG" alt="Task Tracker CLI Preview">
-</p>
+A lightweight **command-line task tracker** built with Python.  
+Manage your tasks easily by adding, updating, deleting, and tracking their status with a simple JSON file.  
 
-A simple and lightweight **command-line task tracker** built with Python.  
-This project helps you manage tasks by adding, updating, deleting, and tracking their status using a local JSON file.
-
-No external libraries. No frameworks. Just clean Python and CLI fundamentals.
+No external libraries. Pure Python. Beginner-friendly and extendable.
 
 ---
 
@@ -20,9 +14,8 @@ No external libraries. No frameworks. Just clean Python and CLI fundamentals.
 - Delete tasks
 - List all tasks
 - Filter tasks by status
-- Colored CLI output using ANSI escape codes
+- Colored CLI output using ANSI codes
 - Tasks stored locally in a JSON file
-- Beginner-friendly and easy to extend
 
 ---
 
@@ -32,5 +25,7 @@ No external libraries. No frameworks. Just clean Python and CLI fundamentals.
 task-tracker-cli/
 │── task.py          # Main CLI application
 │── tasks.json       # Task storage (auto-created, gitignored)
+│── images/          # Optional: screenshots
+│   └── preview.png
 │── .gitignore
 │── README.md
