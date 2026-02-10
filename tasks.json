@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "title": "gym",
+        "status": "done"
+    },
+    {
+        "id": 3,
+        "title": "read the book",
+        "status": "todo"
+    },
+    {
+        "id": 4,
+        "title": "Good person",
+        "status": "todo"
+    },
+    {
+        "id": 5,
+        "title": "Learn python",
+        "status": "todo"
+    },
+    {
+        "id": 6,
+        "title": "Fix the code",
+        "status": "done"
+    }
+]
